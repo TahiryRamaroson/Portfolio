@@ -61,7 +61,6 @@ const AboutMe: React.FC = () => {
         </div>
         <div className="flex flex-row justify-center gap-6 items-center pl-32 pr-32 mb-16  max-lg:flex-col max-lg:p-16 min-[1921px]:px-[45rem] min-[1921px]:mb-48" style={{marginTop:"-300px"}}>
           <article className="pl-60 max-lg:p-0">
-            <img src={me} alt={me} />
           </article>
           <Swiper
             spaceBetween={100}

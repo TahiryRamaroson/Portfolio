@@ -120,14 +120,6 @@ const Contact: React.FC = () => {
                     ? "bg-[--blackblue] dark-mode-shadow px-10 py-10  rounded-t-xl rounded-b-xl w-full"
                     : "bg-[--icewhite] dark-shadow px-10 py-10  rounded-t-xl rounded-b-xl w-full"
                 }`}>
-                  <FontAwesomeIcon icon={faHomeUser} style={{fontSize: "20px"}}/>
-                  <span style={{fontSize: "20px"}}>&nbsp;&nbsp;&nbsp;Lot III F 108 A Mahamasina, Antananarivo</span>
-            </div>
-            <div className={`${
-                  theme === "dark"
-                    ? "bg-[--blackblue] dark-mode-shadow px-10 py-10  rounded-t-xl rounded-b-xl w-full"
-                    : "bg-[--icewhite] dark-shadow px-10 py-10  rounded-t-xl rounded-b-xl w-full"
-                }`}>
                   <FontAwesomeIcon icon={faPhone} style={{fontSize: "20px"}}/>
                   <span style={{fontSize: "20px"}}>&nbsp;&nbsp;&nbsp;+261 32 96 757 33</span>
             </div>

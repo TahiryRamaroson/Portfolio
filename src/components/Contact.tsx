@@ -9,7 +9,7 @@ import "react-toastify/dist/ReactToastify.css";
 import "leaflet/dist/leaflet.css";
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHomeUser, faMailBulk, faPhone } from '@fortawesome/free-solid-svg-icons';
+import { faMailBulk, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 
